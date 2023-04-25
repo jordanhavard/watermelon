@@ -1,0 +1,8 @@
+{
+  "name": "Watermelon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "a560cdc2"
+}
